@@ -8,6 +8,7 @@ class Program {
 		System.out.println("I wanna learn German!");
 		System.out.println("I wanna learn Russian!");
 		System.out.println("I wanna learn Spanish!");
+		System.out.println("I wanna learn Estonian!");
 	
 
 	}
