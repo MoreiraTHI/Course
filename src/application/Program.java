@@ -6,6 +6,7 @@ class Program {
 		
 		System.out.println("Hallo Welt");
 		System.out.println("I wanna learn German!");
+		System.out.println("I wanna learn Russian!");
 	
 
 	}
